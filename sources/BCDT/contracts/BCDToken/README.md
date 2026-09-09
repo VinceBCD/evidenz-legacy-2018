@@ -1,4 +1,4 @@
-# BCDiploma ICO’s specifications
+# BCDT ICO specifications
 
 ## Structure
 Contributors will need to whitelist their address to participate in the ICO.
